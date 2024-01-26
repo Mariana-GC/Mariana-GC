@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![Drawing was made by me](Drawing.png)
+![Drawing was made by me](Icon.png)
 
 ## About Me
 * Education:
